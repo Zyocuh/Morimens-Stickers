@@ -1,6 +1,6 @@
 {
-  "name": "Project Sekai Stickers",
-  "short_name": "Pjsk Stickers",
+  "name": "Morimens Stickers",
+  "short_name": "Morimens Stickers",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -21,8 +21,8 @@
   "theme_color": "#cf93d9",
   "background_color": "#121212",
   "display": "standalone",
-  "description": "Make your own Project sekai stickers!",
-  "start_url": "https://prsk.erica.moe/",
+  "description": "Make your own Morimens stickers!",
+  "start_url": "https://morimens-stickers.vercel.app/",
   "dir": "ltr",
   "lang": "en",
   "orientation": "portrait",
