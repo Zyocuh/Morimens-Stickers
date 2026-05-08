@@ -31,7 +31,7 @@
     "id": "5",
     "name": "Aigis01",
     "character": "Aigis",
-    "img": "avatar/Portrait_Minihead_PlayerAvatar_A_B03.png",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B03.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "keep at it!",
@@ -43,9 +43,9 @@
   },
   {
     "id": "6",
-    "name": "Airi 04",
-    "character": "airi",
-    "img": "airi/Airi_04.png",
+    "name": "Sorel 01",
+    "character": "Sorel",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B04.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -57,9 +57,9 @@
   },
   {
     "id": "8",
-    "name": "Airi 06",
-    "character": "airi",
-    "img": "airi/Airi_06.png",
+    "name": "helot 01",
+    "character": "helot",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B05.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -71,9 +71,9 @@
   },
   {
     "id": "9",
-    "name": "Airi 07",
-    "character": "airi",
-    "img": "airi/Airi_07.png",
+    "name": "ghelot 01",
+    "character": "ghelot",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B05EX.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
@@ -85,9 +85,9 @@
   },
   {
     "id": "10",
-    "name": "Airi 08",
-    "character": "airi",
-    "img": "airi/Airi_08.png",
+    "name": "Agrippa 01",
+    "character": "agrippa",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B06.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "something",
