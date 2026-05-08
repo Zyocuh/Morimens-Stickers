@@ -5,10 +5,10 @@ body {
 }
 
 @font-face {
-  font-family: "YurukaStd";
+  font-family: "NotoSerif-Regular";
   src:
-    local("YurukaStd"),
-    url(./fonts/YurukaStd.woff2) format("woff2");
+    local("NotoSerif-Regular"),
+    url(./fonts/NotoSerif-Regular.woff2) format("woff2");
   font-display: swap;
 }
 

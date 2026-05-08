@@ -126,7 +126,7 @@ function App() {
 
     ctx.clearRect(0, 0, w, h);
 
-    if (loaded && imgObj && document.fonts.check("12px YurukaStd")) {
+    if (loaded && imgObj && document.fonts.check("12px NotoSerif-Regular")) {
       const img = imgObj;
 
       const hRatio = w / img.width;
@@ -147,7 +147,7 @@ function App() {
         img.height * ratio
       );
 
-      ctx.font = `${fontSize}px YurukaStd, SSFangTangTi`;
+      ctx.font = `${fontSize}px NotoSerif-Regular, SSFangTangTi`;
       ctx.lineWidth = 9;
       ctx.save();
 
@@ -254,7 +254,7 @@ function App() {
             variant="h3"
             align="center"
             sx={{
-              fontFamily: "YurukaStd",
+              fontFamily: "NotoSerif-Regular",
               fontSize: { xs: "1.75rem", sm: "2.5rem", md: "3rem" },
             }}
           >
@@ -451,7 +451,7 @@ function App() {
             >
               <Typography
                 variant="h6"
-                fontFamily="YurukaStd"
+                fontFamily="NotoSerif-Regular"
                 sx={{ flexShrink: 0, mr: 2, whiteSpace: "nowrap" }}
               >
                 Rotation
@@ -477,7 +477,7 @@ function App() {
             >
               <Typography
                 variant="h6"
-                fontFamily="YurukaStd"
+                fontFamily="NotoSerif-Regular"
                 sx={{ flexShrink: 0, mr: 2, whiteSpace: "nowrap" }}
               >
                 Font size
@@ -503,7 +503,7 @@ function App() {
             >
               <Typography
                 variant="h6"
-                fontFamily="YurukaStd"
+                fontFamily="NotoSerif-Regular"
                 sx={{ flexShrink: 0, mr: 2, whiteSpace: "nowrap" }}
               >
                 Spacing
@@ -529,7 +529,7 @@ function App() {
             >
               <Typography
                 variant="h6"
-                fontFamily="YurukaStd"
+                fontFamily="NotoSerif-Regular"
                 sx={{ flexShrink: 0, mr: 2, whiteSpace: "nowrap" }}
               >
                 Curved text?
@@ -568,7 +568,7 @@ function App() {
               variant="outlined"
               onClick={copy}
               startIcon={<ContentCopyTwoTone />}
-              style={{ fontFamily: "YurukaStd" }}
+              style={{ fontFamily: "NotoSerif-Regular" }}
               sx={{ color: dominantColor }}
             >
               copy
@@ -577,7 +577,7 @@ function App() {
               variant="outlined"
               onClick={download}
               startIcon={<DownloadTwoTone />}
-              style={{ fontFamily: "YurukaStd" }}
+              style={{ fontFamily: "NotoSerif-Regular" }}
               sx={{ color: dominantColor }}
             >
               download
