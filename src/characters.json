@@ -18,7 +18,7 @@
     "name": "Thais 01",
     "character": "Thais",
     "img": "Avatar/Portrait_Minihead_PlayerAvatar_A_B01.png",
-    "color": "#FB8AAC",
+    "color": "#2596be",
     "defaultText": {
       "text": "nice to meet ya",
       "x": 148,
@@ -32,7 +32,7 @@
     "name": "Aigis01",
     "character": "Aigis",
     "img": "Portrait_Minihead_PlayerAvatar_A_B03.png",
-    "color": "#FB8AAC",
+    "color": "#2596be",
     "defaultText": {
       "text": "keep at it!",
       "x": 140,
@@ -46,7 +46,7 @@
     "name": "Sorel 01",
     "character": "Sorel",
     "img": "Portrait_Minihead_PlayerAvatar_A_B04.png",
-    "color": "#FB8AAC",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -60,7 +60,7 @@
     "name": "helot 01",
     "character": "helot",
     "img": "Portrait_Minihead_PlayerAvatar_A_B05.png",
-    "color": "#FB8AAC",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -74,7 +74,7 @@
     "name": "ghelot 01",
     "character": "ghelot",
     "img": "Portrait_Minihead_PlayerAvatar_A_B05EX.png",
-    "color": "#FB8AAC",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -88,7 +88,7 @@
     "name": "Agrippa 01",
     "character": "agrippa",
     "img": "Portrait_Minihead_PlayerAvatar_A_B06.png",
-    "color": "#FB8AAC",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -99,10 +99,10 @@
   },
   {
     "id": "11",
-    "name": "Airi 09",
-    "character": "airi",
-    "img": "airi/Airi_09.png",
-    "color": "#FB8AAC",
+    "name": "Salv 01",
+    "character": "Salv",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B02.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -113,10 +113,10 @@
   },
   {
     "id": "13",
-    "name": "Airi 11",
-    "character": "airi",
-    "img": "airi/Airi_11.png",
-    "color": "#FB8AAC",
+    "name": "uvhash 01",
+    "character": "uvhash",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B07.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -127,10 +127,10 @@
   },
   {
     "id": "14",
-    "name": "Airi 12",
-    "character": "airi",
-    "img": "airi/Airi_12.png",
-    "color": "#FB8AAC",
+    "name": "leigh 01",
+    "character": "Leigh",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B08.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -141,10 +141,10 @@
   },
   {
     "id": "15",
-    "name": "Airi 13",
-    "character": "airi",
-    "img": "airi/Airi_13.png",
-    "color": "#FB8AAC",
+    "name": "faint 01",
+    "character": "faint",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B09.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -155,10 +155,10 @@
   },
   {
     "id": "16",
-    "name": "Airi 14",
-    "character": "airi",
-    "img": "airi/Airi_14.png",
-    "color": "#FB8AAC",
+    "name": "Dore 01",
+    "character": "Dore",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B10.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -169,10 +169,10 @@
   },
   {
     "id": "18",
-    "name": "Airi 16",
-    "character": "airi",
-    "img": "airi/Airi_16.png",
-    "color": "#FB8AAC",
+    "name": "pickman 16",
+    "character": "pickman",
+    "img": "Portrait_Minihead_PlayerAvatar_A_B12.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -183,10 +183,10 @@
   },
   {
     "id": "19",
-    "name": "Akito 01",
-    "character": "akito",
-    "img": "akito/Akito_01.png",
-    "color": "#FF7722",
+    "name": "ramona 01",
+    "character": "ramona",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C01.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -197,10 +197,10 @@
   },
   {
     "id": "20",
-    "name": "Akito 02",
-    "character": "akito",
-    "img": "akito/Akito_02.png",
-    "color": "#FF7722",
+    "name": "gramona 02",
+    "character": "gramona",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C01EX.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -211,10 +211,10 @@
   },
   {
     "id": "21",
-    "name": "Akito 03",
-    "character": "akito",
-    "img": "akito/Akito_03.png",
-    "color": "#FF7722",
+    "name": "doll 03",
+    "character": "doll",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C02.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -225,10 +225,10 @@
   },
   {
     "id": "22",
-    "name": "Akito 04",
-    "character": "akito",
-    "img": "akito/Akito_04.png",
-    "color": "#FF7722",
+    "name": "gdoll 04",
+    "character": "gdoll",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C02EX.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -239,10 +239,10 @@
   },
   {
     "id": "24",
-    "name": "Akito 06",
-    "character": "akito",
-    "img": "akito/Akito_06.png",
-    "color": "#FF7722",
+    "name": "ogier 06",
+    "character": "ogier",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C03.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -253,10 +253,10 @@
   },
   {
     "id": "25",
-    "name": "Akito 07",
-    "character": "akito",
-    "img": "akito/Akito_07.png",
-    "color": "#FF7722",
+    "name": "lotan 07",
+    "character": "lotan",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C04.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -267,10 +267,10 @@
   },
   {
     "id": "26",
-    "name": "Akito 08",
-    "character": "akito",
-    "img": "akito/Akito_08.png",
-    "color": "#FF7722",
+    "name": "ryker 08",
+    "character": "ryker",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C05.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -281,10 +281,10 @@
   },
   {
     "id": "27",
-    "name": "Akito 09",
-    "character": "akito",
-    "img": "akito/Akito_09.png",
-    "color": "#FF7722",
+    "name": "24 09",
+    "character": "24",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C06.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -295,10 +295,10 @@
   },
   {
     "id": "29",
-    "name": "Akito 11",
-    "character": "akito",
-    "img": "akito/Akito_11.png",
-    "color": "#FF7722",
+    "name": "nautila 11",
+    "character": "nautila",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C07.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -309,10 +309,10 @@
   },
   {
     "id": "30",
-    "name": "Akito 12",
-    "character": "akito",
-    "img": "akito/Akito_12.png",
-    "color": "#FF7722",
+    "name": "nymph 12",
+    "character": "nymph",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C08.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -323,10 +323,10 @@
   },
   {
     "id": "31",
-    "name": "Akito 13",
-    "character": "akito",
-    "img": "akito/Akito_13.png",
-    "color": "#FF7722",
+    "name": "pandia 13",
+    "character": "pandia",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C09.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -337,10 +337,10 @@
   },
   {
     "id": "32",
-    "name": "Akito 14",
-    "character": "akito",
-    "img": "akito/Akito_14.png",
-    "color": "#FF7722",
+    "name": "lily 14",
+    "character": "lily",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C10.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -351,10 +351,10 @@
   },
   {
     "id": "33",
-    "name": "Akito 16",
-    "character": "akito",
-    "img": "akito/Akito_16.png",
-    "color": "#FF7722",
+    "name": "alva 16",
+    "character": "alva",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C11.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -365,10 +365,10 @@
   },
   {
     "id": "34",
-    "name": "An 01",
-    "character": "an",
-    "img": "an/An_01.png",
-    "color": "#00BADC",
+    "name": "karen 01",
+    "character": "karenan",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C12.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -379,10 +379,10 @@
   },
   {
     "id": "35",
-    "name": "An 02",
-    "character": "an",
-    "img": "an/An_02.png",
-    "color": "#00BADC",
+    "name": "tawil 02",
+    "character": "tawil",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C15.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -393,10 +393,10 @@
   },
   {
     "id": "36",
-    "name": "An 03",
-    "character": "an",
-    "img": "an/An_03.png",
-    "color": "#00BADC",
+    "name": "kath 01",
+    "character": "kath",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C16.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -407,10 +407,10 @@
   },
   {
     "id": "37",
-    "name": "An 04",
-    "character": "an",
-    "img": "an/An_04.png",
-    "color": "#00BADC",
+    "name": "mouch",
+    "character": "mouchette",
+    "img": "Portrait_Minihead_PlayerAvatar_A_C17.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -421,10 +421,10 @@
   },
   {
     "id": "39",
-    "name": "An 06",
-    "character": "an",
-    "img": "an/An_06.png",
-    "color": "#00BADC",
+    "name": "clem 06",
+    "character": "clem",
+    "img": "Portrait_Minihead_PlayerAvatar_A_Clementine.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -435,10 +435,10 @@
   },
   {
     "id": "40",
-    "name": "An 07",
-    "character": "an",
-    "img": "an/An_07.png",
-    "color": "#00BADC",
+    "name": "liz 07",
+    "character": "liz",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D01.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -449,10 +449,10 @@
   },
   {
     "id": "41",
-    "name": "An 08",
-    "character": "an",
-    "img": "an/An_08.png",
-    "color": "#00BADC",
+    "name": "daff 08",
+    "character": "daff",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D02.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -463,10 +463,10 @@
   },
   {
     "id": "42",
-    "name": "An 09",
-    "character": "an",
-    "img": "an/An_09.png",
-    "color": "#00BADC",
+    "name": "tinct 09",
+    "character": "tinct",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D03.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -477,10 +477,10 @@
   },
   {
     "id": "44",
-    "name": "An 11",
-    "character": "an",
-    "img": "an/An_11.png",
-    "color": "#00BADC",
+    "name": "wanda 11",
+    "character": "wanda",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D04.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -491,10 +491,10 @@
   },
   {
     "id": "45",
-    "name": "An 12",
-    "character": "an",
-    "img": "an/An_12.png",
-    "color": "#00BADC",
+    "name": "winkle 12",
+    "character": "winkle",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D05.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -505,10 +505,10 @@
   },
   {
     "id": "46",
-    "name": "An 13",
-    "character": "an",
-    "img": "an/An_13.png",
-    "color": "#00BADC",
+    "name": "horla 13",
+    "character": "horla",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D06.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -519,10 +519,10 @@
   },
   {
     "id": "47",
-    "name": "An 14",
-    "character": "an",
-    "img": "an/An_14.png",
-    "color": "#00BADC",
+    "name": "jenkins 14",
+    "character": "jenkins",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D07.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -533,10 +533,10 @@
   },
   {
     "id": "49",
-    "name": "An 16",
-    "character": "an",
-    "img": "an/An_16.png",
-    "color": "#00BADC",
+    "name": "erica 16",
+    "character": "erica",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D08.png",
+    "color": "#2596be",
     "defaultText": {
       "text": "something",
       "x": 148,
@@ -547,9 +547,9 @@
   },
   {
     "id": "50",
-    "name": "Emu 01",
-    "character": "emu",
-    "img": "emu/Emu_01.png",
+    "name": "cassiah 01",
+    "character": "cassiah",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D09.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -561,9 +561,9 @@
   },
   {
     "id": "51",
-    "name": "Emu 02",
-    "character": "emu",
-    "img": "emu/Emu_02.png",
+    "name": "castor 02",
+    "character": "castor",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D11.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -575,9 +575,9 @@
   },
   {
     "id": "52",
-    "name": "Emu 03",
-    "character": "emu",
-    "img": "emu/Emu_03.png",
+    "name": "hamlen 03",
+    "character": "hamlen",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D12.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -589,9 +589,9 @@
   },
   {
     "id": "53",
-    "name": "Emu 04",
-    "character": "emu",
-    "img": "emu/Emu_04.png",
+    "name": "pollux 04",
+    "character": "pollux",
+    "img": "Portrait_Minihead_PlayerAvatar_A_D14.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -603,9 +603,9 @@
   },
   {
     "id": "55",
-    "name": "Emu 06",
-    "character": "emu",
-    "img": "emu/Emu_06.png",
+    "name": "tulu 06",
+    "character": "tulu",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O01.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -617,9 +617,9 @@
   },
   {
     "id": "56",
-    "name": "Emu 07",
-    "character": "emu",
-    "img": "emu/Emu_07.png",
+    "name": "murphy 07",
+    "character": "murphy",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O02.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -631,9 +631,9 @@
   },
   {
     "id": "57",
-    "name": "Emu 08",
-    "character": "emu",
-    "img": "emu/Emu_08.png",
+    "name": "gmurphy 08",
+    "character": "gmurphy",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O02EX.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -645,9 +645,9 @@
   },
   {
     "id": "58",
-    "name": "Emu 09",
-    "character": "emu",
-    "img": "emu/Emu_09.png",
+    "name": "faros 09",
+    "character": "faros",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O03.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -659,9 +659,9 @@
   },
   {
     "id": "60",
-    "name": "Emu 11",
-    "character": "emu",
-    "img": "emu/Emu_11.png",
+    "name": "carcue 11",
+    "character": "caecus",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O04.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -673,9 +673,9 @@
   },
   {
     "id": "61",
-    "name": "Emu 12",
-    "character": "emu",
-    "img": "emu/Emu_12.png",
+    "name": "Aureita 12",
+    "character": "aurita",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O05.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -687,9 +687,9 @@
   },
   {
     "id": "62",
-    "name": "Emu 13",
-    "character": "emu",
-    "img": "emu/Emu_13.png",
+    "name": "goliath 13",
+    "character": "goliath",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O06.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "Wonderhoy!",
@@ -701,9 +701,9 @@
   },
   {
     "id": "63",
-    "name": "Emu 14",
-    "character": "emu",
-    "img": "emu/Emu_14.png",
+    "name": "myriam 14",
+    "character": "myriam",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O07.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -715,9 +715,9 @@
   },
   {
     "id": "65",
-    "name": "Emu 16",
-    "character": "emu",
-    "img": "emu/Emu_16.png",
+    "name": "sanga 16",
+    "character": "sanga",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O08.png",
     "color": "#FF66BB",
     "defaultText": {
       "text": "something",
@@ -729,9 +729,9 @@
   },
   {
     "id": "66",
-    "name": "Ena 01",
-    "character": "ena",
-    "img": "ena/Ena_01.png",
+    "name": "celeste 01",
+    "character": "celeste",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O09.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -743,9 +743,9 @@
   },
   {
     "id": "67",
-    "name": "Ena 02",
-    "character": "ena",
-    "img": "ena/Ena_02.png",
+    "name": "corpo 02",
+    "character": "corpo",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O10.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
@@ -757,9 +757,9 @@
   },
   {
     "id": "68",
-    "name": "Ena 03",
-    "character": "ena",
-    "img": "ena/Ena_03.png",
+    "name": "vortice 03",
+    "character": "vortice",
+    "img": "Portrait_Minihead_PlayerAvatar_A_O11.png",
     "color": "#B18F6C",
     "defaultText": {
       "text": "something",
