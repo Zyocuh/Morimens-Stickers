@@ -258,7 +258,7 @@ function App() {
               fontSize: { xs: "1.75rem", sm: "2.5rem", md: "3rem" },
             }}
           >
-            Project Sekai Stickers Maker
+            Morimens Stickers Maker
           </Typography>
           <Typography variant="subtitle1" align="center">
             Created by{" "}
@@ -267,15 +267,7 @@ function App() {
               onClick={handleInfoOpen}
               href="#"
             >
-              Ayaka and others
-            </Link>
-            , tweaked by{" "}
-            <Link
-              sx={{ color: dominantColor }}
-              href="https://erica.moe/@er1kaceae"
-              target="_blank"
-            >
-              @er1kaceae@erica.moe
+              Zyocuh
             </Link>
             .
           </Typography>
