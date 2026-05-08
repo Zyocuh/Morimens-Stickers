@@ -1,8 +1,8 @@
 [
   {
     "id": "3",
-    "name": "Airi 01",
-    "character": "airi",
+    "name": "Xu 01",
+    "character": "Xu",
     "img": "Avatar/Portrait_Minihead_PlayerAvatar_A_B14.png",
     "color": "#FB8AAC",
     "defaultText": {
@@ -15,9 +15,9 @@
   },
   {
     "id": "4",
-    "name": "Airi 02",
-    "character": "airi",
-    "img": "airi/Airi_02.png",
+    "name": "Thais 01",
+    "character": "Thais",
+    "img": "Avatar/Portrait_Minihead_PlayerAvatar_A_B01.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "nice to meet ya",
@@ -29,9 +29,9 @@
   },
   {
     "id": "5",
-    "name": "Airi 03",
-    "character": "airi",
-    "img": "airi/Airi_03.png",
+    "name": "Aigis01",
+    "character": "Aigis",
+    "img": "avatar/Portrait_Minihead_PlayerAvatar_A_B03.png",
     "color": "#FB8AAC",
     "defaultText": {
       "text": "keep at it!",
